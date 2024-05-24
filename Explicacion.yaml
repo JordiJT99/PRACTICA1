@@ -1,0 +1,20 @@
+Variables: Nombre que le pondremos a los datos que utlizaremos. Pueden ser de tipo int,long,double
+ para numeros String para palabras char para caracteres, arrays..
+ bucles: For o while.Signifca que estará repitiendo lo que este dentro hasta que la condición deje de
+ cumplirse
+ Condicionales: IF, else if, switch. La acción pasará si se cumple la condición indicada.
+ XML: texto marcado con etiquetas
+ html: Lenguaje que utiliza marcas para que en la pagina web salga de una manera determinada por ejemplo
+ los <h1> los checkbox o los listas <li>
+ clases: Son los paquetitos que se hacen dentro de un programa. Por ejemplo un porgrama que sea coche
+ tendrá clases como ruedas,puertas y cada una hará su función.
+ Herencia: Las clases pueden heredar de otras, es decir una superclase puede dar sus atribtuos y métodos
+ a una clase hija.
+ sql: Lenguaje de programación para las bases de datos.
+ queries: Sentencias que se escriben en la base de datos para lanzar la consulta por ejemplo
+ Select * from casa para que seleccione todo de la tabla casa.
+ commit: Palabra que se utiliza cuando se inicializa una transacción y queremos confirmar y cerrar la 
+ transferencia de datos.
+ 
+
+ --------------Jordi Juan Tur------------------------------
